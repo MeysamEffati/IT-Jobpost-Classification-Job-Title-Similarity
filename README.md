@@ -1,13 +1,15 @@
-# Personalized-Job-Matching-System
+# **Personalized Job Matching System**
+**Overview:**
+This project introduces a Personalized Job Matching System designed to match job seekers with their ideal job positions by analyzing resumes using advanced data analytics and machine learning techniques. By extracting key information and matching it against job descriptions, this system aims to streamline the job search process, making it more efficient and tailored to individual preferences and qualifications.
 
-1. Project Overview
-The proposed Personalized Job Matching System aims to revolutionize the job search experience
-by leveraging advanced technologies in data science and machine learning. The primary
-objectives are as follows:
+**Features**
+- Resume Parsing: Extracts skills, experience, and educational background from uploaded resumes using Natural Language Processing (NLP).
+- Job Matching Algorithm: Employs machine learning algorithms to match candidates with job listings that best fit their profiles.
+- Feedback Loop: Integrates user feedback to refine and improve the accuracy of job recommendations over time.
 
-2. Objectives
-
-  ● Enhanced User Experience: Develop a user-friendly platform that allows individuals to effortlessly upload their resumes and receive personalized job recommendations tailored to their unique skills and preferences.
-  
-  ● Precision and Accuracy: Implement algorithms and natural language processing techniques to ensure a high level of accuracy in parsing resumes and matching them with
-relevant job listings. The system will prioritize the identification of key skills, experiences, and qualifications.
+**Technologies Used**
+- Data Collection: Kaggle datasets
+- Data source: https://www.kaggle.com/datasets/udacity/armenian-online-job-postings?select=online-job-postings.csv
+- Backend: NLP techniques
+- Frontend: React/Vue.js for UI/UX design
+- Machine Learning Integration for continuous refinement
