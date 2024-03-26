@@ -1,11 +1,10 @@
-# **Personalized Job Matching System**
+# **IT Jobpost Classification / Job Title Similarity**
 **Overview:**
-This project introduces a Personalized Job Matching System designed to match job seekers with their ideal job positions by analyzing resumes using advanced data analytics and machine learning techniques. By extracting key information and matching it against job descriptions, this system aims to streamline the job search process, making it more efficient and tailored to individual preferences and qualifications.
+This project introduces a model designed to classifiy job posts using advanced data analytics and machine learning techniques into IT or Non-IT class.
 
 **Features**
-- Resume Parsing: Extracts skills, experience, and educational background from uploaded resumes using Natural Language Processing (NLP).
-- Job Matching Algorithm: Employs machine learning algorithms to match candidates with job listings that best fit their profiles.
-- Feedback Loop: Integrates user feedback to refine and improve the accuracy of job recommendations over time.
+- IT Job classification: classifiy job posts on important features
+- Job Title Similarity: analyze job titles and return the most relevent posts depending on the title entered
 
 **Technologies Used**
 - Data Collection: Kaggle datasets
