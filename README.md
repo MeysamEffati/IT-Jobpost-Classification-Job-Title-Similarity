@@ -11,6 +11,7 @@ This project introduces a model designed to classify job posts using advanced da
 - Data source: https://www.kaggle.com/datasets/udacity/armenian-online-job-postings?select=online-job-postings.csv
 - Features Development
 - Machine Learning Integration for continuous refinement
+
 **Technologies Used**
 - Backend: NLP techniques
 - Frontend: React/Vue.js for UI/UX design
